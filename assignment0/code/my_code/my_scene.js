@@ -1,4 +1,4 @@
-import {tiny, defs} from './../examples/common.js';
+import {tiny, defs} from '../examples/common.js';
 import {Fish, School, Game, PVector, pv_dist} from './../project/fish_engine.js'
 import {Food} from './../project/food_engine.js'
 

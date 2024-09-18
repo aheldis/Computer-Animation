@@ -14,7 +14,7 @@ Create an introduction file named "README.md" (or in another format if you wish)
 
 The code for this part should be written in `part_one_hermite.js` (you can implement the spline and helper classes in another file, but if you do so please specify this in your README document). All input/output behaviors should be implemented using the top input and output text boxes, and operations triggered by clicking buttons.
 
-![](./io.png)
+![](io.png)
 
 For this part, implement a Hermite spline class adhering to the following requirements:
 
